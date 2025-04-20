@@ -2,7 +2,7 @@
 from vk import API
 from time import strftime, sleep
 
-access_token = '6361c9ff6315bb9d50077c70c33563927d68bc9cb5e6f922217d87f82321ce05d67c8ccdsfserb027075ab'
+access_token = 
 
 except_counter_lmt = 30 #кол-во срабатывания исключений, после кот-го зав-ся работа скрипта
 request_pause = 10 #пауза между обработкой исключений, чтобы не забрасывать vk запросами, в случае возниконовения ошибок
